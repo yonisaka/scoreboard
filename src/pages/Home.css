@@ -1,0 +1,10 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+.scoring{
+  text-align: center;
+}
+
+.score{
+  font-size: 35px;
+}
